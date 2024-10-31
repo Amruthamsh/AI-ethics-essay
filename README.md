@@ -1,6 +1,8 @@
 # Navigating AI's extensive ethical implications
 
-my essay for the 2023 Kaggle AI Report! proud of how it turned out. 
+my essay for the 2023 Kaggle AI Report! proud of how it turned out!
+
+https://www.kaggle.com/code/amruthamshadruguli/navigating-ai-s-extensive-ethical-implications
 
 ## Introduction 
 
@@ -8,4 +10,3 @@ Ethical systems can be complex and multifaceted, shaped by diverse factors like 
 
 ![AI Hand Puppet](https://github.com/user-attachments/assets/ab727e71-9100-49b8-999b-0fdaec54fe5a)
 
-https://www.kaggle.com/code/amruthamshadruguli/navigating-ai-s-extensive-ethical-implications
